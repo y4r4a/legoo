@@ -1,0 +1,52 @@
+*{
+    margin: 1;
+    padding: 0 0.5;
+    box-sizing:border-box;
+    font-family: 'Nihonium113 Console', sans-serif;
+    font-family: 'Nihonium113', sans-serif;
+                                                
+}
+body{
+    background-color: rgb(232, 59, 145);
+    text-align: center;
+    text-align: justify;
+    
+    
+}
+.title{
+    text-align: center;
+    font-family: 'Nihonium113 Console', sans-serif;
+    font-family: 'Nihonium113', sans-serif;
+    color: rgb(246, 196, 92);
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(246, 196, 92);
+}
+button{
+    font-size: 2em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    padding: 0.5em 1.5em;
+    border-radius: 0.5em ;
+    color:  rgb(119, 88, 163);
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    background-color: rgb(255, 175, 235);
+    border-color: blueviolet;
+    display: block;
+    margin: 0;
+        
+}
+.m1{
+    width: 350px;
+    margin: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    margin-left: 350px;
+}
